@@ -1,2 +1,2 @@
-# recipe-app-react-spring
-recipe app with spring backend and react frontend
+# recipe_app
+recipe app with flask backend and react frontend
